@@ -14,4 +14,6 @@ Divs are used to specify a large area of html. Classes are used to specify multi
 
 Alt text is used in case a form of media will not work or display in the browser as an alternate way of communicating what it is.
 
+I learned a lot about incorporating multiple forms of media in this work cycle. The only sticking point for me was incorporating a specific location on the map iframe. It seems to just insert a random map without the location I specified. Other than that everything went well.
+
 ![assignment 4 screenshot](./images/SSassignment4.png)
