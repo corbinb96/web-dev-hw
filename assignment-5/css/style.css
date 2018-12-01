@@ -1,0 +1,62 @@
+/* I set the positions using margins! */
+
+img {
+  height: 60px;
+  width: 60px;
+}
+
+div {
+  height: 200px;
+  width: 1000px;
+  margin-left: 80px;
+}
+
+p{
+  color: white;
+  font-size: 25px;
+}
+
+#purple {
+  background-color: indigo;
+  border: 30px solid white;
+}
+#green {
+  background-color: yellow;
+  border: 30px dashed lightgreen;
+}
+#blue {
+  background-color: blue;
+  border: 30px dotted yellow;
+}
+#orange {
+  background-color: orange;
+  border: 30px dashed red;
+}
+
+body {
+  background-color: magenta;
+  opacity: .7;
+}
+
+.numbers{
+  font-size: 110px;
+  font-style: italic;
+}
+
+
+#one{
+  color: magenta;
+  margin-left: 100px;
+}
+#nine{
+  color: black;
+  margin-left: 200px;
+}
+#six{
+  color: white;
+  margin-left: 300px;
+}
+#zero{
+  color: red;
+  margin-left: 400px;
+}
