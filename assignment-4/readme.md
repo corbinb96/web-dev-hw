@@ -1,12 +1,4 @@
-A.) On line 1, using a h1 or h2, title your README.md.
 
-B.) Briefly describe the difference between divs, classes, ids, and spans.
-
-C.) What is "alt text," and why do we use it?
-
-D.) Summarize your work cycle for this assignment. Review this page if you need some ideas.
-
-E.) Embed a screenshot of your workspace at some point during your development cycle.
 
 ## Assignment 4 README
 

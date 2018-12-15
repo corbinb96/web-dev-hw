@@ -1,0 +1,25 @@
+img {
+  height: 300px;
+  width: 350px;
+
+}
+#me{
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+a:hover{
+  color: red;
+}
+#links{
+  height: 400px;
+  width: 600px;
+  border: 10px solid red;
+  margin: auto;
+  text-align: center;
+}
+li{
+  list-style: none;
+  padding: 10px;
+}
